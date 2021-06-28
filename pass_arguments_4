@@ -1,0 +1,10 @@
+#! /bin/bash
+#this is a comment
+echo "argument stuff"
+echo  $1 $2 $3
+
+args=("$@") # argument as an array
+echo ${args[0]} ${args[1]} ${args[2]}
+
+echo $# # number of arguments
+
