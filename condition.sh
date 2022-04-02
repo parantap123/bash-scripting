@@ -11,7 +11,7 @@ fi
 
 if (( $count >= 10 ))  
 then
-	echo "yes greater"
+	echo "yes smallerS"
 fi
 
 # if [ $word -eq "abc" ]
