@@ -11,6 +11,7 @@ fi
 
 if (( $count >= 10 ))  
 then
+
 	echo "yes smallerS"
 fi
 
